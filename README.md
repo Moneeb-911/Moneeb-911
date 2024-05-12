@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moneeb-911
-- 👀 I’m interested in Machine learning, Data Science,Feature Engineering,Deep LEarning
+- 👀 I’m interested in Machine learning, Data Science,Feature Engineering,Deep Laarning
 - 🌱 I’m currently learning Deep Learning with tensorflow to build neural networks
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me, just mail at muneebzain484@gmail.com
